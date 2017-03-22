@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cv6.GrObjekt" Collapsed="true">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GrObjekt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv6.Objekt2D" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objekt2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv6.Objekt3D" Collapsed="true">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Objekt3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv6.Kruh">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAgQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Kruh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv6.Obdelnik">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAQQAAAAAAAIAAAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Obdelnik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv6.Elipsa">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAQQAAAAAAAIAAAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Elipsa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv6.Trojuhelnik">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgAAAAAAQAAAAAAAAAAAAgAAAAAAAQAAAAACAAAA=</HashCode>
+      <FileName>Trojuhelnik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv6.Kvadr">
+    <Position X="15.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQQAAAAAAAIAAAAAgAAAChAQAAAAABAAA=</HashCode>
+      <FileName>Kvadr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv6.Valec">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAgQAAAAAAAAAAAAgAgAAAABAAgAAAAAAAA=</HashCode>
+      <FileName>Valec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv6.Koule">
+    <Position X="17.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgQAAAAAAAAAAAAAAgAAAABAAgAAAAAAAA=</HashCode>
+      <FileName>Koule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cv6.Jehlan">
+    <Position X="11.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAQQAAAAAAAAAAAgAgAAAAhAAAAAAAAAAA=</HashCode>
+      <FileName>Jehlan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
